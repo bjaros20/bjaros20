@@ -1,3 +1,5 @@
+![My Image](https://github.com/bjaros20/bjaros20/blob/main/20160822_063154%20(1).jpg)
+
 ## About Me
 - Economics PhD Candidate at Clemson University
 
