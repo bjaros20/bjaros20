@@ -10,7 +10,7 @@
 - Economic History
 
 ## Current Research
-- Switching to Single Sales Factor Apportionment and State Corporate Income Tax Base Outcomes
+- The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects
 - Taxation in the Colonial Chesapeake
 
 ## Teaching
