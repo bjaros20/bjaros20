@@ -1,7 +1,7 @@
 ![My Image](https://github.com/bjaros20/bjaros20/blob/main/20240527_204537.jpg)
 
 ## About Me
-- Economics PhD Candidate at Clemson University
+- Research Fellow at the Hoover Institution | Economist
 
 ## Research Interests
 - Public Finance
@@ -11,7 +11,8 @@
 
 ## Current Research
 - The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects
-- Taxation in the Colonial Chesapeake
+- Tobacco Tariffs in the Colonial Chesapeake
+- Tax Abatements for Data Centers and Government Output: Short-Run Effects on Public Sector Activity
 
 ## Teaching
 - Graduate Instructor of Record for ECON 2110
