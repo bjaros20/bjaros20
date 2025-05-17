@@ -1,21 +1,24 @@
-![My Image](https://github.com/bjaros20/bjaros20/blob/main/20240527_204537.jpg)
+<img src="https://github.com/bjaros20/bjaros20/blob/main/20240527_204537.jpg?raw=true" alt="Tillman Hall" style="max-width: 100%;">
+
+<p style="font-size: 0.75rem; color: #666; margin-top: -0.5rem; margin-bottom: 1.5rem;">
+Photo taken by the author, Clemson University (May 2024)
+</p>
 
 ## About Me
-- Research Fellow at the Hoover Institution | Economist
+- Research Fellow at the Hoover Institution \| Economist
 
 ## Research Interests
-- Public Finance
-- Taxation
-- Financial Economics
+- Public Finance  
+- Taxation  
+- Financial Economics  
 - Economic History
 
 ## Current Research
-- The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects
-- Tobacco Tariffs in the Colonial Chesapeake
+- The Impact of Single Sales Factor Apportionment on State Tax Revenues: Short- and Long-Run Effects  
+- Tobacco Tariffs in the Colonial Chesapeake  
 - Tax Abatements for Data Centers and Government Output: Short-Run Effects on Public Sector Activity
 
 ## Teaching
 - Graduate Instructor of Record for ECON 2110
 
-## Photo
-- Note: Photo of Tillman Hall taken at Clemson University in May 2024 by me.
+
