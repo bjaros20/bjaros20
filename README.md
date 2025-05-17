@@ -17,4 +17,5 @@
 ## Teaching
 - Graduate Instructor of Record for ECON 2110
 
+## Photo
 - Note: Photo of Tillman Hall taken at Clemson University in May 2024 by me.
