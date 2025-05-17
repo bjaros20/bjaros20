@@ -1,8 +1,7 @@
-<img src="https://github.com/bjaros20/bjaros20/blob/main/20240527_204537.jpg?raw=true" alt="Tillman Hall" style="max-width: 100%;">
-
-<p style="font-size: 0.75rem; color: #666; margin-top: -0.5rem; margin-bottom: 1.5rem;">
-Photo taken by the author, Clemson University (May 2024)
-</p>
+<img src="https://github.com/bjaros20/bjaros20/blob/main/20240527_204537.jpg?raw=true" 
+     alt="Tillman Hall" 
+     title="Photo by Benjamin Jaros, Clemson University (May 2024)" 
+     style="max-width: 100%;">
 
 ## About Me
 - Research Fellow at the Hoover Institution \| Economist
